@@ -1,2 +1,2 @@
-# k12ela006
+# course_k12ela006
 K12ELA006: English Language Arts 6
