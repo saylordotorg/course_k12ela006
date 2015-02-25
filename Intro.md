@@ -1,3 +1,10 @@
+---
+layout: default
+title: "K12ELA006: English Language Arts 6"
+course_description: "In this course, you will read and analyze a number of complex, thematically related narratives, short stories, extended informational texts, and nonfiction articles. You will then try writing your own arguments and supporting them with research-based evidence."
+next: ../Unit01
+previous: ../../../
+---
 Course Syllabus for "K12ELA006: English Language Arts 6"
 --------------------------------------------------------
 

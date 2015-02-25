@@ -1,3 +1,10 @@
+---
+layout: default
+title: "K12ELA006: English Language Arts 6"
+course_description: "In this course, you will read and analyze a number of complex, thematically related narratives, short stories, extended informational texts, and nonfiction articles. You will then try writing your own arguments and supporting them with research-based evidence."
+next: ../Unit06
+previous: ../Unit04
+---
 **Unit 5: The Art of Arguing** <span id="5"></span> 
 *Beginning at a young age, most people discover that it is part of human
 nature to argue. Just today, in 20 minutes of watching television with

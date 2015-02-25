@@ -1,3 +1,10 @@
+---
+layout: default
+title: "K12ELA006: English Language Arts 6"
+course_description: "In this course, you will read and analyze a number of complex, thematically related narratives, short stories, extended informational texts, and nonfiction articles. You will then try writing your own arguments and supporting them with research-based evidence."
+next: ../Unit04
+previous: ../Unit02
+---
 **Unit 3: Oh My Word** <span id="3"></span> 
 *Words are arguably one of the most powerful tools existing on this
 Earth. When connected with other words, they have the power to become
