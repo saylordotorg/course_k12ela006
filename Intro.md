@@ -107,4 +107,11 @@ amount of time you’d spend in a typical English class. If you are able
 to complete your studying at the same time every day, this will go a
 long way toward helping you develop strong study habits.  
     
+**Table of Contents:** You can find the course's units at the links below.
 
+- [Unit 1](https://legacy.saylor.org/k12ela006/Unit01/)
+- [Unit 2](https://legacy.saylor.org/k12ela006/Unit02/)
+- [Unit 3](https://legacy.saylor.org/k12ela006/Unit03/)
+- [Unit 4](https://legacy.saylor.org/k12ela006/Unit04/)
+- [Unit 5](https://legacy.saylor.org/k12ela006/Unit05/)
+- [Unit 6](https://legacy.saylor.org/k12ela006/Unit06/)
