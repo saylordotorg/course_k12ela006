@@ -132,3 +132,4 @@ long way toward helping you develop strong study habits.
 - [Unit 4](https://legacy.saylor.org/k12ela006/Unit04/)
 - [Unit 5](https://legacy.saylor.org/k12ela006/Unit05/)
 - [Unit 6](https://legacy.saylor.org/k12ela006/Unit06/)
+- [Final Exam](http://saylordotorg.github.io/LegacyExams/K12/K12ELA006/K12ELA006-FinalExam.html), [Answers](http://saylordotorg.github.io/LegacyExams/K12/K12ELA006/K12ELA006-FinalExam-Answers.html)
