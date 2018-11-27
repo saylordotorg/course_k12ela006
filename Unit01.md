@@ -156,7 +156,7 @@ id="1.1.1"></span> 
     Affixes - Marine Unit”**
     Link: The Saylor Foundation: Amy Kasten’s [“Roots and Affixes -
     Marine
-    Unit”](http://www.saylor.org/site/wp-content/uploads/2013/09/K12ELA006-1.1.2-RootsAndAffixesMarineUnit.pdf) (PDF)  
+    Unit”](https://resources.saylor.org/archived/wp-content/uploads/2013/09/K12ELA006-1.1.2-RootsAndAffixesMarineUnit.pdf) (PDF)  
         
      Instructions: This document provides a brief explanation of Latin
     and Greek roots and affixes, and outlines some of the roots and
@@ -198,7 +198,7 @@ id="1.1.1"></span> 
     Consulting Vocabulary Reference Materials”**
     Link: The Saylor Foundation: Amy Kasten’s [“Guide To Consulting
     Vocabulary Reference
-    Materials”](http://www.saylor.org/site/wp-content/uploads/2013/09/K12ELA006-1.1.3-Guide-To-Consulting-Vocabulary-Reference-Materials.pdf) (PDF)  
+    Materials”](https://resources.saylor.org/archived/wp-content/uploads/2013/09/K12ELA006-1.1.3-Guide-To-Consulting-Vocabulary-Reference-Materials.pdf) (PDF)  
         
      Instructions: This document outlines different types of reference
     materials, their purposes, and tips for effectively navigating them.
@@ -222,7 +222,7 @@ id="1.1.1"></span> 
 -   **Did I Get This? Activity: The Saylor Foundation: Amy Kasten’s
     “Language Checkpoint \#1”**
     Link: The Saylor Foundation: Amy Kasten’s [“Language Checkpoint
-    \#1”](http://www.saylor.org/site/wp-content/uploads/2013/09/K12ELA006-1.1.4-Language-Checkpoint-1-VFINAL.pdf) (PDF)  
+    \#1”](https://resources.saylor.org/archived/wp-content/uploads/2013/09/K12ELA006-1.1.4-Language-Checkpoint-1-VFINAL.pdf) (PDF)  
         
      Instructions: This document offers you the opportunity to see what
     lessons from this first unit have stuck with you. Being able to
@@ -300,7 +300,7 @@ of your reading.*
 **1.2.2 Literary Analysis of Story Elements** <span id="1.2.2"></span> 
 -   **Reading: Jules Verne’s *Twenty Thousand Leagues Under the Sea***
     Link: Jules Verne’s *[Twenty Thousand Leagues Under the
-    Sea](http://www.saylor.org/site/wp-content/uploads/2013/08/K12ELA006-TwentyThousandLeaguesUndertheSeas.pdf)* (PDF)  
+    Sea](https://resources.saylor.org/archived/wp-content/uploads/2013/08/K12ELA006-TwentyThousandLeaguesUndertheSeas.pdf)* (PDF)  
         
      Instructions: Now that you’ve reviewed some vocabulary and reading
     strategies to help you comprehend this story, it’s time to dive into
@@ -502,7 +502,7 @@ nature.*
 **1.3.1 “The Seafloor”** <span id="1.3.1"></span> 
 -   **Reading: CK-12: “The Seafloor”**
     Link: CK-12: [“The
-    Seafloor”](http://www.saylor.org/site/wp-content/uploads/2013/09/K12ELA006-1.3.1-Seafloor.pdf) (PDF)  
+    Seafloor”](https://resources.saylor.org/archived/wp-content/uploads/2013/09/K12ELA006-1.3.1-Seafloor.pdf) (PDF)  
         
      Instructions: Read this textbook excerpt and make a notes page for
     it in your notebook. You will reference this reading as you complete
