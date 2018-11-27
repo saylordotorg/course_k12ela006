@@ -451,7 +451,7 @@ id="3.3.6"></span> 
     Character - Creative Writing with Figurative Language”**
     Link: The Saylor Foundation: Amy Kasten’s [“Create a Character -
     Creative Writing with Figurative
-    Language”](http://www.saylor.org/site/wp-content/uploads/2013/09/K12ELA6-3.3.6-Create-a-Character.pdf) (PDF)  
+    Language”](https://resources.saylor.org/archived/wp-content/uploads/2013/09/K12ELA6-3.3.6-Create-a-Character.pdf) (PDF)  
         
      Instructions: Complete the creative writing activity, following the
     instructions and using the example provided on the handout. Have fun
@@ -556,7 +556,7 @@ id="3.4.1"></span> 
     Contrasting Poetry and Personal Narrative”**
     Link: The Saylor Foundation: Amy Kasten’s [“Comparing and
     Contrasting Poetry and Personal
-    Narrative”](http://www.saylor.org/site/wp-content/uploads/2013/09/K12ELA6-3.4.4-Comparing-and-Contrasting-Poetry-and-Personal-Narrative.pdf) (PDF)  
+    Narrative”](https://resources.saylor.org/archived/wp-content/uploads/2013/09/K12ELA6-3.4.4-Comparing-and-Contrasting-Poetry-and-Personal-Narrative.pdf) (PDF)  
         
      Instructions: During this activity, you will compare the
     similarities and analyze the differences between two texts; one
@@ -582,7 +582,7 @@ listening skills covered so far in this course. *
     Assessment Section 1” and “Midcourse Assessment Section 1”**
     Link: The Saylor Foundation: Amy Kasten’s [“Midcourse Assessment
     Section
-    1”](http://www.saylor.org/site/wp-content/uploads/2013/09/K12ELA6-3.5-Midcourse-Assessment-Unit-3-Section-1.pdf) (PDF)
+    1”](https://resources.saylor.org/archived/wp-content/uploads/2013/09/K12ELA6-3.5-Midcourse-Assessment-Unit-3-Section-1.pdf) (PDF)
     and [“Midcourse Assessment Section
     2”](http://school.saylor.org/mod/quiz/view.php?id=1691) (HTML)  
         
@@ -590,7 +590,7 @@ listening skills covered so far in this course. *
     comprehension of concepts covered in Unit 3. For Section 1 record
     your answers in your notebook. After completing this section, check
     your answers using the [Answer
-    Key](http://www.saylor.org/site/wp-content/uploads/2013/09/K12ELA6-3.5-Midcourse-Assessment-Unit-3-Section-1-Answer-Key.pdf) provided.
+    Key](https://resources.saylor.org/archived/wp-content/uploads/2013/09/K12ELA6-3.5-Midcourse-Assessment-Unit-3-Section-1-Answer-Key.pdf) provided.
     Section 2 will be graded automatically.  
         
      You must be logged into your Saylor account in order to access this

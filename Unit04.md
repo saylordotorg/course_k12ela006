@@ -95,7 +95,7 @@ part of the American Revolutionary War.*
 
 -   **Reading: CK-12: “The Battle of Lexington”**
     Link: CK-12: [“The Battle of
-    Lexington”](http://www.saylor.org/site/wp-content/uploads/2013/09/K12ELA006-4.1-The-Battle-of-Lexington.pdf) (PDF)  
+    Lexington”](https://resources.saylor.org/archived/wp-content/uploads/2013/09/K12ELA006-4.1-The-Battle-of-Lexington.pdf) (PDF)  
         
      Instructions: Begin a new notes page in your notebook and title it
     “April 19, 1775.” Begin reading this text, and be sure to stop and
@@ -185,7 +185,7 @@ id="4.2.2"></span> 
     Information and Comparing Texts”**
     Link: The Saylor Foundation: Amy Kasten’s [“Integrating Information
     and Comparing
-    Texts”](http://www.saylor.org/site/wp-content/uploads/2013/09/K12ELA006-4.2.2-Integrating-Information-and-Comparing-Texts.pdf) (PDF)  
+    Texts”](https://resources.saylor.org/archived/wp-content/uploads/2013/09/K12ELA006-4.2.2-Integrating-Information-and-Comparing-Texts.pdf) (PDF)  
         
      Instructions: Print a copy of the activity above, or copy the chart
     into you notebook. Then, review your notes and look back at the
@@ -440,7 +440,7 @@ it using multiple resources. *
 **4.4.2 Conducting and Recording Research** <span id="4.4.2"></span> 
 -   **Activity: The Saylor Foundation: Amy Kasten’s “Research Record”**
     Link: The Saylor Foundation: Amy Kasten’s [“Research
-    Record”](http://www.saylor.org/site/wp-content/uploads/2013/09/K12ELA6-4.4.2-Research-Record.pdf) (PDF)  
+    Record”](https://resources.saylor.org/archived/wp-content/uploads/2013/09/K12ELA6-4.4.2-Research-Record.pdf) (PDF)  
         
      Instructions: Now you are going to put everything you learned about
     how to research in the previous unit into action. You’ve selected
@@ -479,7 +479,7 @@ ending in a final published draft.*
     Article Prewriting Activities”**
     Link: The Saylor Foundation: Amy Kasten’s [“Informational Article
     Prewriting
-    Activities”](http://www.saylor.org/site/wp-content/uploads/2013/09/K12ELA6-4.5.1.1-Informational-Article-Prewriting-Activities.pdf) (PDF)  
+    Activities”](https://resources.saylor.org/archived/wp-content/uploads/2013/09/K12ELA6-4.5.1.1-Informational-Article-Prewriting-Activities.pdf) (PDF)  
         
      Instructions: Use your research record and resources to help you
     complete all of the activities described on the document linked
@@ -498,7 +498,7 @@ id="4.5.1.2"></span> 
 -   **Activity: The Saylor Foundation: Amy Kasten’s “Getting Started:
     Rough Draft”**
     Link: The Saylor Foundation: Amy Kasten’s [“Getting Started: Rough
-    Draft”](http://www.saylor.org/site/wp-content/uploads/2013/09/K12ELA006-4.5.1.2-Getting-Started-Rough-Draft.pdf) (PDF)  
+    Draft”](https://resources.saylor.org/archived/wp-content/uploads/2013/09/K12ELA006-4.5.1.2-Getting-Started-Rough-Draft.pdf) (PDF)  
         
      Instructions: Now that you have selected a topic, compiled your
     research, and organized your thoughts through prewriting activities,
@@ -596,7 +596,7 @@ id="4.5.1.2"></span> 
     Article Revision and Editing Checklists”**
     Link: The Saylor Foundation: Amy Kasten’s [“Informational Article
     Revision and Editing
-    Checklists”](http://www.saylor.org/site/wp-content/uploads/2013/09/K12ELA6-4.5.3-Informational-Article-Revision-and-Editing-Checklists.pdf) (PDF)  
+    Checklists”](https://resources.saylor.org/archived/wp-content/uploads/2013/09/K12ELA6-4.5.3-Informational-Article-Revision-and-Editing-Checklists.pdf) (PDF)  
         
      Instructions: Use the checklist provided to finish revising and
     editing your personal narrative. Be sure to check each item on the
@@ -680,7 +680,7 @@ may use your notes to help you answer these questions.*
 -   **Assessment: The Saylor Foundation: Amy Kasten’s “Unit 4
     Assessment”**
     Link: The Saylor Foundation: Amy Kasten’s [“Unit 4
-    Assessment”](http://www.saylor.org/site/wp-content/uploads/2013/09/K12ELA12-4.6-Unit-4-Assessment.pdf) (PDF)  
+    Assessment”](https://resources.saylor.org/archived/wp-content/uploads/2013/09/K12ELA12-4.6-Unit-4-Assessment.pdf) (PDF)  
         
      Instructions: This assessment was designed to test your
     understanding of the skills and concepts covered in Unit 4. Complete
@@ -688,7 +688,7 @@ may use your notes to help you answer these questions.*
     written response should be a minimum of four complete sentences in
     length. After answering the questions, evaluate your answers using
     the answer rubric provided
-    [here](http://www.saylor.org/site/wp-content/uploads/2013/09/K12ELA12-4.6-Unit-4-Assessment-Answer-Key.pdf).  
+    [here](https://resources.saylor.org/archived/wp-content/uploads/2013/09/K12ELA12-4.6-Unit-4-Assessment-Answer-Key.pdf).  
         
      Completing this assessment should take approximately 1 hour.  
         
