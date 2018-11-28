@@ -115,7 +115,7 @@ write later in this unit.*
     Read Like a Writer”**
     Link: Writing Spaces: Readings on Writing: Mike Bunn’s [“How to Read
     Like a
-    Writer”](https://resources.saylor.org/archived/wp-content/uploads/2013/08/K12ELA006-2.1.1-HowToRead.pdf) (PDF)  
+    Writer”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/08/K12ELA006-2.1.1-HowToRead.pdf) (PDF)  
         
      Instructions: Create a new section in your notebook for this unit
     and title it “Reading Like a Writer.” Then, read this entire
@@ -155,7 +155,7 @@ write later in this unit.*
 **2.1.2 Literary Analysis** <span id="2.1.2"></span> 
 -   **Reading: J. M. Barrie’s *Peter Pan***
     Link: J. M. Barrie’s *[Peter
-    Pan](https://resources.saylor.org/archived/wp-content/uploads/2013/09/K12ELA006-2.1.2-Peter-Pan.pdf) *(PDF)  
+    Pan](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/09/K12ELA006-2.1.2-Peter-Pan.pdf) *(PDF)  
         
      Also available in:  
      [MP3](http://archive.org/details/PeterPn)  
@@ -198,7 +198,7 @@ write later in this unit.*
 **2.1.2.1 General and Immediate Setting** <span id="2.1.2.1"></span> 
 -   **Explanation: The Saylor Foundation: Amy Kasten’s “Setting Notes”**
     Link: The Saylor Foundation: Amy Kasten’s [“Setting
-    Notes”](https://resources.saylor.org/archived/wp-content/uploads/2013/09/K12ELA006-2.1.2.1-Setting-Notes.pdf) (PDF)  
+    Notes”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/09/K12ELA006-2.1.2.1-Setting-Notes.pdf) (PDF)  
         
      Instructions: Read these notes about setting. If you cannot a print
     a copy of the notes, you may want to copy the main ideas into your
@@ -215,7 +215,7 @@ write later in this unit.*
 -   **Explanation: The Saylor Foundation: Amy Kasten’s “Characterization
     Notes”**
     Link: The Saylor Foundation: Amy Kasten’s [“Characterization
-    Notes”](https://resources.saylor.org/archived/wp-content/uploads/2013/09/K12ELA6-2.1.2.2-Characterization.pdf) (PDF)  
+    Notes”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/09/K12ELA6-2.1.2.2-Characterization.pdf) (PDF)  
         
      Instructions: Read the explanation of different ways authors teach
     readers about characters. Be sure to record what each letter in the
@@ -233,7 +233,7 @@ id="2.1.2.3"></span> 
 -   **Activity: The Saylor Foundation: Amy Kasten’s “Character
     Analysis”**
     Link: The Saylor Foundation: Amy Kasten’s [“Character
-    Analysis”](https://resources.saylor.org/archived/wp-content/uploads/2013/09/K12ELA6-2.1.2.3-Character-Analysis.pdf) (PDF)  
+    Analysis”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/09/K12ELA6-2.1.2.3-Character-Analysis.pdf) (PDF)  
         
      Instructions: Use the text of *Peter Pan* to locate at least six
     different examples of characterization in the story. Record these
@@ -253,7 +253,7 @@ id="2.1.2.4"></span> 
 -   **Activity: The Saylor Foundation: Amy Kasten’s “Peter Pan −
     Character Comparison”**
     Link: The Saylor Foundation: Amy Kasten’s [“Peter Pan - Character
-    Comparison”](https://resources.saylor.org/archived/wp-content/uploads/2013/09/K12ELA006-2.1.2.4-Peter-Pan-Character-Comparison.pdf) (PDF)  
+    Comparison”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/09/K12ELA006-2.1.2.4-Peter-Pan-Character-Comparison.pdf) (PDF)  
         
      Instructions: Print or copy the chart from this handout into your
     notebook. Refer to the text of *Peter Pan* and think critically
@@ -285,7 +285,7 @@ id="2.2.1"></span> 
     Vocabulary: Life on the Mississippi”**
     Link: The Saylor Foundation: Amy Kasten’s [“Building Vocabulary:
     Life on the
-    Mississippi”](https://resources.saylor.org/archived/wp-content/uploads/2013/09/K12ELA6-2.2.1-Building-Vocabulary-Life.pdf) (PDF)  
+    Mississippi”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/09/K12ELA6-2.2.1-Building-Vocabulary-Life.pdf) (PDF)  
         
      Instructions: This activity is designed to help you build an
     understanding of words that you will encounter in *Life on the
@@ -375,7 +375,7 @@ personal narrative.*
     “Storytelling, Narration, and the Who I Am Story”**
     Link: Writing Spaces: Readings on Writing: Catherine Ramsdell’s
     [“Storytelling, Narration, and the ‘Who I Am
-    Story’”](https://resources.saylor.org/archived/wp-content/uploads/2013/09/K12ELA006-2.4-Storytelling-Narration-and-the-Who-I-Am-Story.pdf) (PDF)  
+    Story’”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/09/K12ELA006-2.4-Storytelling-Narration-and-the-Who-I-Am-Story.pdf) (PDF)  
         
      Instructions: Read this chapter on personal narratives from Writing
     Spaces: Readings on Writing. The content in this essay will help you
@@ -457,7 +457,7 @@ personal narrative.*
 -   **Activity: The Saylor Foundation: Amy Kasten’s “Theme - Planning
     for Narrative”**
     Link: The Saylor Foundation: Amy Kasten’s [“Theme - Planning for
-    Narrative”](https://resources.saylor.org/archived/wp-content/uploads/2013/09/K12ELA006-2.4.1.2.1-Theme-Planning-for-Narrative.pdf) (PDF)  
+    Narrative”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/09/K12ELA006-2.4.1.2.1-Theme-Planning-for-Narrative.pdf) (PDF)  
         
      Instructions: Use the guiding questions to help you to plan and
     develop a lesson readers can take away from your personal narrative.
@@ -504,7 +504,7 @@ personal narrative.*
 -   **Activity: The Saylor Foundation: Amy Kasten’s Characterization
     Planning**
     Link: The Saylor Foundation: Amy Kasten’s [“Characterization
-    Planning”](https://resources.saylor.org/archived/wp-content/uploads/2013/09/K12ELA6-2.4.1.2.3-Characterization-Planning.pdf) (PDF)  
+    Planning”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/09/K12ELA6-2.4.1.2.3-Characterization-Planning.pdf) (PDF)  
         
      Instructions: Print or copy the chart from this handout into your
     notebook. Then, begin brainstorming different examples of
@@ -523,7 +523,7 @@ personal narrative.*
 **2.4.2 Writing a Rough Draft** <span id="2.4.2"></span> 
 -   **Activity: The Saylor Foundation: Amy Kasten’s “Writing a Hook”**
     Link: The Saylor Foundation: Amy Kasten’s [“Writing a
-    Hook”](https://resources.saylor.org/archived/wp-content/uploads/2013/09/K12ELA006-2.4.2-Narrative-Writing-Hooks.pdf) (PDF)  
+    Hook”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/09/K12ELA006-2.4.2-Narrative-Writing-Hooks.pdf) (PDF)  
         
      Instructions: Read through the explanation on writing a lead and
     complete the activity described. Look for and categorize the way
@@ -552,7 +552,7 @@ personal narrative.*
     Revision Checklist”**
     Link: The Saylor Foundation: Amy Kasten’s [“Personal Narrative
     Revision
-    Checklist”](https://resources.saylor.org/archived/wp-content/uploads/2013/09/K12ELA6-2.4.3-Personal-Narrative-Revision-Checklist.pdf) (PDF)  
+    Checklist”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/09/K12ELA6-2.4.3-Personal-Narrative-Revision-Checklist.pdf) (PDF)  
         
      Instructions: Use the revision checklist provided to revise your
     personal narrative. Be sure to check each item on the list and then
@@ -575,7 +575,7 @@ personal narrative.*
     Editing Checklist”**
     Link: The Saylor Foundation: Amy Kasten’s [“Personal Narrative
     Editing
-    Checklist”](https://resources.saylor.org/archived/wp-content/uploads/2013/09/K12ELA6-2.4.4-Personal-Narrative-Editing-Checklist.pdf) (PDF)  
+    Checklist”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/09/K12ELA6-2.4.4-Personal-Narrative-Editing-Checklist.pdf) (PDF)  
         
      Instructions: Use the editing checklist provided to proofread your
     personal narrative for errors. Be sure to check each item on the
@@ -648,7 +648,7 @@ id="2.5.2"></span> 
     Narrative Writing Traits Assessment Rubric”**
     Link: The Saylor Foundation: Amy Kasten’s [“Personal Narrative
     Writing Traits Assessment
-    Rubric”](https://resources.saylor.org/archived/wp-content/uploads/2013/09/K12ELA6-2.5.2-Personal-Narrative-Writing-Traits-Assessment-Rubric.pdf) (PDF)  
+    Rubric”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/09/K12ELA6-2.5.2-Personal-Narrative-Writing-Traits-Assessment-Rubric.pdf) (PDF)  
         
      Instructions: To evaluate how well you synthesized the information
     regarding narrative writing and traits of effective writing, use the
