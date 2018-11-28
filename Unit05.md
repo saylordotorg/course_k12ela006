@@ -99,7 +99,7 @@ skills.*
 **5.1.1 Reading and Notes** <span id="5.1.1"></span> 
 -   **Reading: CK-12: “Persuasive Essay”**
     Link: CK-12: [“Persuasive
-    Essay”](https://resources.saylor.org/archived/wp-content/uploads/2013/09/K12ELA006-5.1.1-Persuasive-Essay.pdf) (PDF)  
+    Essay”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/09/K12ELA006-5.1.1-Persuasive-Essay.pdf) (PDF)  
         
      Instructions: Create a new section in your notebook and title it
     “Persuasive Writing.” Then, begin reading the chapter excerpt
@@ -130,7 +130,7 @@ skills.*
 **5.1.2 Review Questions** <span id="5.1.2"></span> 
 -   **Checkpoint: CK-12: “Persuasive Essay Review Questions”**
     Link: CK-12: [“Persuasive Essay Review
-    Questions”](https://resources.saylor.org/archived/wp-content/uploads/2013/09/K12ELA006-5.1.2-Persuasive-Essay.pdf) (PDF)  
+    Questions”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/09/K12ELA006-5.1.2-Persuasive-Essay.pdf) (PDF)  
         
      Instructions: Scroll to the bottom of the webpage that you read in
     the previous subunit and find the five review questions. Below your
@@ -221,7 +221,7 @@ article as support.*
     Arguments and Evaluating Support”**
     Link: The Saylor Foundation: Amy Kasten’s [“Identifying Arguments
     and Evaluating
-    Support”](https://resources.saylor.org/archived/wp-content/uploads/2013/09/K12ELA006-5.2.2.2-Identifying-Arguments-and-Evaluating-Support.pdf) (PDF)  
+    Support”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/09/K12ELA006-5.2.2.2-Identifying-Arguments-and-Evaluating-Support.pdf) (PDF)  
         
      Instructions: Refer to the article that you just read and complete
     the graphic organizer activity linked above. You will use the
@@ -277,7 +277,7 @@ article as support.*
     Arguments and Evaluating Support”**
     Link: The Saylor Foundation: Amy Kasten’s [“Identifying Arguments
     and Evaluating
-    Support”](https://resources.saylor.org/archived/wp-content/uploads/2013/09/K12ELA006-5.2.2.2-Identifying-Arguments-and-Evaluating-Support.pdf) (PDF)  
+    Support”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/09/K12ELA006-5.2.2.2-Identifying-Arguments-and-Evaluating-Support.pdf) (PDF)  
         
      Instructions: Refer to the article that you just read and complete
     the graphic organizer activity linked above. You will use the
@@ -339,7 +339,7 @@ revise, edit, and then publish your argumentative essay. *
 **5.3.1.2 Researching Supporting Evidence** <span id="5.3.1.2"></span> 
 -   **Activity: The Saylor Foundation: Amy Kasten’s “Research Record”**
     Link: The Saylor Foundation: Amy Kasten’s [“Research
-    Record”](https://resources.saylor.org/archived/wp-content/uploads/2013/09/K12ELA006-5.3.1.2-Research-Record.pdf) (PDF)  
+    Record”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/09/K12ELA006-5.3.1.2-Research-Record.pdf) (PDF)  
         
      Instructions: After defining your argument, it is time for you to
     collect some evidence and data to support your opinion. As with any
@@ -459,7 +459,7 @@ revise, edit, and then publish your argumentative essay. *
     Revision Checklist”**
     Link: The Saylor Foundation: Amy Kasten’s [“Argumentative Essay
     Revision
-    Checklist”](https://resources.saylor.org/archived/wp-content/uploads/2013/09/K12ELA6-5.3.3.1-Amy-Kastens-Argumentative-Essay-Revision-Checklist.pdf) (PDF)  
+    Checklist”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/09/K12ELA6-5.3.3.1-Amy-Kastens-Argumentative-Essay-Revision-Checklist.pdf) (PDF)  
         
      Instructions: Use the revision checklist provided to revise your
     argumentative essay. Be sure to check each item on the list and then
@@ -490,7 +490,7 @@ revise, edit, and then publish your argumentative essay. *
     Editing Checklist”**
     Link: The Saylor Foundation: Amy Kasten’s [“Argumentative Essay
     Editing
-    Checklist”](https://resources.saylor.org/archived/wp-content/uploads/2013/09/K12ELA6-5.3.3.2-Amy-Kastens-Argumentative-Essay-Editing-Checklist-VFINAL.pdf) (PDF)  
+    Checklist”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/09/K12ELA6-5.3.3.2-Amy-Kastens-Argumentative-Essay-Editing-Checklist-VFINAL.pdf) (PDF)  
         
      Instructions: Use this editing checklist to proofread your
     argumentative essay for errors. Be sure to check each item on the
@@ -626,7 +626,7 @@ course.*
 -   **Activity: The Saylor Foundation: Amy Kasten’s “Unit 5
     Assessment”**
     Link: The Saylor Foundation: Amy Kasten’s [“Unit 5
-    Assessment”](https://resources.saylor.org/archived/wp-content/uploads/2013/09/K12ELA006-5.4-Unit-5-Assessment.pdf) (PDF)  
+    Assessment”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/09/K12ELA006-5.4-Unit-5-Assessment.pdf) (PDF)  
         
      Instructions: Open this assessment and preview the activity. If you
     are unable to print out the assessment, copy the graphic organizer
@@ -637,7 +637,7 @@ course.*
     about the article and locating specific textual details to fill in
     the graphic organizer. Once you’ve completed the graphic organizer
     and answered the associated questions, use the [Answer
-    Key](https://resources.saylor.org/archived/wp-content/uploads/2013/09/K12ELA006-5.4-Unit-5-Assessment-Answer-Key.pdf) provided
+    Key](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/09/K12ELA006-5.4-Unit-5-Assessment-Answer-Key.pdf) provided
     to check your work.  
         
      Completing this assessment should take approximately 30 minutes.  
